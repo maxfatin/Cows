@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication6", "ConsoleApplication6\ConsoleApplication6.csproj", "{BF8C42F5-3B98-4102-BE8C-9F391E6962AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{819E584D-0505-4F8F-A015-41BC21F4BE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowCounter", "WindowsFormsApp1CowCounter\CowCounter.csproj", "{A84370D1-D125-43A3-9EF2-199F84B29E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{819E584D-0505-4F8F-A015-41BC21F4BE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819E584D-0505-4F8F-A015-41BC21F4BE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819E584D-0505-4F8F-A015-41BC21F4BE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84370D1-D125-43A3-9EF2-199F84B29E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84370D1-D125-43A3-9EF2-199F84B29E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84370D1-D125-43A3-9EF2-199F84B29E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84370D1-D125-43A3-9EF2-199F84B29E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEC0567-448F-422C-8C85-B288843B3BEF}
 	EndGlobalSection
 EndGlobal
