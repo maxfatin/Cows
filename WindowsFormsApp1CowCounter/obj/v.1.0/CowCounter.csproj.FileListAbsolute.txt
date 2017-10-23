@@ -1,0 +1,17 @@
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\WindowsFormsApp1CowCounter.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\WindowsFormsApp1CowCounter.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\ConsoleApplication6.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\UnitTestProject1.dll
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\ConsoleApplication6.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\ConsoleApplication6.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\UnitTestProject1.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\v.1.0\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\CowCounter.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\WindowsFormsApp1CowCounter.CowCounterForm.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\WindowsFormsApp1CowCounter.Properties.Resources.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\CowCounter.csproj.GenerateResource.Cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\CowCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\v.1.0\WindowsFormsApp1CowCounter.pdb

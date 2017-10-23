@@ -1,0 +1,9 @@
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.CowCounter.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.Properties.Resources.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.csproj.GenerateResource.Cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.pdb

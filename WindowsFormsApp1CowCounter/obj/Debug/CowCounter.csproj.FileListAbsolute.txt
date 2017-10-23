@@ -1,0 +1,17 @@
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\WindowsFormsApp1CowCounter.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.Properties.Resources.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\CowCounter.csproj.GenerateResource.Cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\CowCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\CowCounter.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\obj\Debug\WindowsFormsApp1CowCounter.CowCounterForm.resources
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\ConsoleApplication6.exe
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\UnitTestProject1.dll
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\ConsoleApplication6.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\UnitTestProject1.pdb
+C:\Users\User\Google Диск\source\repos\Cows\WindowsFormsApp1CowCounter\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
