@@ -1,0 +1,11 @@
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\ConsoleApplication6.exe
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\ConsoleApplication6.pdb
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\User\Google Диск\source\repos\Cows\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
